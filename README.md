@@ -13,9 +13,13 @@ I am a 4th-year Computer Science Engineering student specializing in Data Scienc
 - **Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ## 🏆 Achievements
-- **IEEEXtreme 17.0**: Secured a global rank of 226 and a national rank of 59.
+- **IEEEXtreme 17.0**: Secured a global rank of 226 and a national rank of 59,and 1st place in Kerala.
+- **IEEEXtreme 16.0**: Secured a global rank of 530 and a national rank of 60.
+  
+##  Experience
 - **HackAI Techfest Hackathon (IIT Bombay)**: Participated in an AI-focused hackathon using uAgents by fetch.ai.
 - **Full Stack Development Internship**: Completed a 30-day MERN stack internship with ICT Academy of Kerala, building a deployed web app with data fetching, state management, and RESTful APIs.
+- **Cyber Forensics Internship:** Completed a 5-day internship with RedTeam Hacker Academy, gaining hands-on experience in Windows Forensics,Linux Forensics, Email Forensics, and Log Analysis.
 
 ## 🚗 Featured Projects
 
