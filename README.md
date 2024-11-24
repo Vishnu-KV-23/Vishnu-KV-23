@@ -38,7 +38,7 @@ A Python-powered voice assistant for web browsing, email sending, and more. Inte
 ## 📜 Certifications
 - **Microsoft Certified:** Azure Fundamentals (AZ-900)  
 - **Ethical Hacking:** NPTEL  
-- **Google Cybersecurity Professional Certificate** (in progress): 2 of 8 courses completed  
+- **Google Cybersecurity Professional Certificate** : 8 of 8 courses completed  
 - **API Security Fundamentals:** APIsec University  
 
 ## 🌟 Fun Facts
