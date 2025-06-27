@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wishnukv2349@gmail.com)
 
 ## 🚀 About Me
-I am a 4th-year Computer Science Engineering student specializing in Data Science. I have a strong foundation in Python, Java, Data Structures, Algorithms, Machine Learning, and Data Analysis. Skilled in AI/ML frameworks like TensorFlow and PyTorch, and experienced with large data manipulation using pandas and NumPy, I’m passionate about developing impactful data-driven solutions.
+I am a  Computer Science Engineering graduate with specialisation in Data Science . I have a strong foundation in Python, Java, Data Structures, Algorithms, Machine Learning, and Data Analysis. Skilled in AI/ML frameworks like TensorFlow and PyTorch, and experienced with large data manipulation using pandas and NumPy, I’m passionate about developing impactful data-driven solutions.
 
 ## 🏆 Achievements
 - **IEEEXtreme 17.0**: Secured a global rank of 226 and a national rank of 59,and 1st place in Kerala.
