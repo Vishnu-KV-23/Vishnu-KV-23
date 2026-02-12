@@ -7,8 +7,8 @@
 I am a  Computer Science Engineering graduate with specialisation in Data Science . I have a strong foundation in Python, Java, Data Structures, Algorithms, Machine Learning, and Data Analysis. Skilled in AI/ML frameworks like TensorFlow and PyTorch, and experienced with large data manipulation using pandas and NumPy, I’m passionate about developing impactful data-driven solutions.
 
 ## 🏆 Achievements
-- **IEEEXtreme 17.0**: Secured a global rank of 226 and a national rank of 59,and 1st place in Kerala.
-- **IEEEXtreme 16.0**: Secured a global rank of 530 and a national rank of 60.
+- **IEEEXtreme 17.0**: Secured a global rank of 226 and a national rank of 59
+- **IEEEXtreme 16.0**: Secured a global rank of 530 and a national rank of 60
   
 ##  Experience
 - **Full Stack Development Internship**: Completed a 30-day MERN stack internship with ICT Academy of Kerala, building a deployed web app with data fetching, state management, and RESTful APIs.
